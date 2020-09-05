@@ -1,0 +1,16 @@
+INFO  10:27:48,638 - Compiling source file:C:\Users\joker\Desktop\PP Projekat\src\test\resources\program.mj
+INFO  10:27:48,641 - #1 program
+INFO  10:27:48,641 - #4 MJProgram
+INFO  10:27:48,641 - #4 int
+INFO  10:27:48,641 - #4 x
+INFO  10:27:48,641 - #8 ,
+INFO  10:27:48,641 - #4 y
+INFO  10:27:48,642 - #9 ;
+INFO  10:27:48,642 - #12 {
+INFO  10:27:48,642 - #15 void
+INFO  10:27:48,642 - #4 main
+INFO  10:27:48,642 - #10 (
+INFO  10:27:48,642 - #11 )
+INFO  10:27:48,642 - #12 {
+INFO  10:27:48,642 - #13 }
+INFO  10:27:48,642 - #13 }
